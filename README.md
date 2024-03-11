@@ -8,3 +8,10 @@ Daftar Tugas / Branch
 7. Tugas-finalProject
 
 Daftar Perintah GIT:
+1. git branch
+2. git add
+3. git switch
+4. git commit
+5. git merge
+6. git log
+7. git push 
