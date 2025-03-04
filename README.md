@@ -6,3 +6,13 @@ Daftar Tugas / Branch
 5. Tugas-midProject
 6. Tugas-php
 7. Tugas-finalProject
+
+## Daftar Perintah Git
+- git clone 
+- git branch 
+- git checkout 
+- git add .  
+- git commit -m "[pesan]"  
+- git merge [nama_branch]  
+- git push origin main  
+- git push origin --all
